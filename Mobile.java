@@ -10,6 +10,8 @@ public class Mobile {
 		}
 		System.out.println(mobileRam.length);
 		
+		System.out.println("Success");
+		
 				
 	}
 
